@@ -1,0 +1,133 @@
+📦 [Genesis Block]
+⛏️ Mining time: 0.02s
+Index       : 0
+Timestamp   : 2025-05-23 10:57:35
+Data        : ['System initialized']
+Prev Hash   : 0000000000000000000000000000000000000000000000000000000000000000
+Merkle Root : bcc5dc2ec3ff90f7ca333fb0aae37e237ff25ed884f86945781344f162899f34
+Nonce       : 1688
+Hash        : 0003a0f56f111a4df6540026a30a2b83da2610241cbf9704e191150e9ccf98ae
+Difficulty  : 3
+
+📦 [Block #1]
+⛏️ Mining time: 0.08s
+Index       : 1
+Timestamp   : 2025-05-23 10:57:35
+Data        : ['Alice → Bob: 2 BTC', 'Charlie → Dave: 1.5 BTC']
+Prev Hash   : 0003a0f56f111a4df6540026a30a2b83da2610241cbf9704e191150e9ccf98ae
+Merkle Root : 175b737abd1c29bfbc3cb5437c0020fd80ce64931a45186c1897865ad98b5de1
+Nonce       : 34020
+Hash        : 0000dc35b9b9dc4a3c9e3e808894161bdd1edefda0c892baba8cbd5e80d2b847
+Difficulty  : 4
+
+🏷️ [Bitcoin Address]
+Public Key  : 0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798
+Address     : 1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH
+
+📦 [Block #2]
+⛏️ Mining time: 1.73s
+Index       : 2
+Timestamp   : 2025-05-23 10:57:35
+Data        : ['UserA → UserB: 0.2 BTC', 'UserC → UserD: 0.4 BTC']
+Prev Hash   : 0000dc35b9b9dc4a3c9e3e808894161bdd1edefda0c892baba8cbd5e80d2b847
+Merkle Root : 572356f66f2f4b6b1e0478ca7d705d6b8b2adbe9631704ca80fd72a9fa23e226
+Nonce       : 685295
+Hash        : 00000b8383e7f1c971643169f73cfe27d1c42e9a1a36a094b3079785cf98929a
+Difficulty  : 5
+
+📦 [Block #3]
+⛏️ Mining time: 17.22s
+Index       : 3
+Timestamp   : 2025-05-23 10:57:37
+Data        : ['UserA → UserB: 0.30000000000000004 BTC', 'UserC → UserD: 0.6000000000000001 BTC']
+Prev Hash   : 00000b8383e7f1c971643169f73cfe27d1c42e9a1a36a094b3079785cf98929a
+Merkle Root : f2d9b1fe7aa18223e375c30c462a9559d87c21c299c29ff2a00bc299ad0b82ca
+Nonce       : 7130437
+Hash        : 000000c045d63dcef554578106d5091d6a814f56082f92d2fe6b723049a32770
+Difficulty  : 6
+
+📦 [Block #4]
+⛏️ Mining time: 2.14s
+Index       : 4
+Timestamp   : 2025-05-23 10:57:54
+Data        : ['UserA → UserB: 0.4 BTC', 'UserC → UserD: 0.8 BTC']
+Prev Hash   : 000000c045d63dcef554578106d5091d6a814f56082f92d2fe6b723049a32770
+Merkle Root : b59e4061bd26706131f121ac212dd3ae902c1291eea137cd408087561d677d7a
+Nonce       : 874268
+Hash        : 000009376c8b0baef33b2865bbbf46a7b7022152d9e173dbdece26b785e5591b
+Difficulty  : 5
+
+📦 [Block #5]
+⛏️ Mining time: 29.51s
+Index       : 5
+Timestamp   : 2025-05-23 10:57:56
+Data        : ['UserA → UserB: 0.5 BTC', 'UserC → UserD: 1.0 BTC']
+Prev Hash   : 000009376c8b0baef33b2865bbbf46a7b7022152d9e173dbdece26b785e5591b
+Merkle Root : e52dc705312309bfbe977b4735a8903effe8e8ea596e733621cdbe9eb4f8f4ee
+Nonce       : 12132856
+Hash        : 000000f9fe7b95ca24ecaee6eae29a1bf0220baf44bd2cfbedad55dd7b471482
+Difficulty  : 6
+
+📦 [Block #6]
+⛏️ Mining time: 3.48s
+Index       : 6
+Timestamp   : 2025-05-23 10:58:26
+Data        : ['UserA → UserB: 0.6000000000000001 BTC', 'UserC → UserD: 1.2000000000000002 BTC']
+Prev Hash   : 000000f9fe7b95ca24ecaee6eae29a1bf0220baf44bd2cfbedad55dd7b471482
+Merkle Root : ba944a016ae828aee038ec85a68dd239cf4d69792ba144195a979f243805ee7b
+Nonce       : 1423319
+Hash        : 000004b366e1abd74358339af663127afa96fa1e3ecb41680540310a8e3848bd
+Difficulty  : 5
+
+📦 [Block #7]
+⛏️ Mining time: 3.22s
+Index       : 7
+ 'UserC → UserD: 1.4000000000000001 BTC']
+Prev Hash   : 000004b366e1abd74358339af663127afa96fa1e3ecb41680540310a8e3848bd
+Merkle Root : f0b2edf4f93256576aa7ac48b272f22fa7e42c4d49ebbf6f6157133d80664a7e
+Nonce       : 1320274
+Hash        : 0000000801971f6ecc5e03939e1a86b15faaf46efabc302e742c9fbaf0a00a05
+Difficulty  : 6
+
+📦 [Block #8]
+⛏️ Mining time: 171.89s
+Index       : 8
+: 1.6 BTC']
+Prev Hash   : 0000000801971f6ecc5e03939e1a86b15faaf46efabc302e742c9fbaf0a00a05
+Merkle Root : d9209546d2d256a74e61dc96809da937b5b48a0c2c9a3ccf902cbc21ca969502
+Nonce       : 67919703
+Hash        : 0000000fc904e8813d3677a72bcdf8f648dc3ec9d6621d2d7d99355f2e529dac
+Difficulty  : 7
+
+📦 [Block #9]
+⛏️ Mining time: 39.43s
+Index       : 9
+Timestamp   : 2025-05-23 11:01:24
+Data        : ['UserA → UserB: 0.9 BTC', 'UserC → UserD: 1.8 BTC']
+Prev Hash   : 0000000fc904e8813d3677a72bcdf8f648dc3ec9d6621d2d7d99355f2e529dac
+Merkle Root : 69b307facde753baaa094ca363192344568c121d03380dfe7a261f58f7cea432
+Nonce       : 16061181
+Hash        : 000000fb69266f08b3888a029b5a645d14371f9178a928a625c6e226b6a39313
+Difficulty  : 6
+
+📦 [Block #10]
+⛏️ Mining time: 2.32s
+Index       : 10
+Timestamp   : 2025-05-23 11:02:04
+Data        : ['UserA → UserB: 1.0 BTC', 'UserC → UserD: 2.0 BTC']
+Prev Hash   : 000000fb69266f08b3888a029b5a645d14371f9178a928a625c6e226b6a39313
+Merkle Root : 6c028a3d984b2d00b2a2537e9ba489d3be9477e0eeaffbaf00afa4b80901be77
+Nonce       : 960320
+Hash        : 00000bd20cea18ba32f4b90333ee6964da3640e4100bc660102066454449adfd
+Difficulty  : 5
+
+📦 [Block #11]
+⛏️ Mining time: 31.85s
+Index       : 11
+Timestamp   : 2025-05-23 11:02:06
+Data        : ['UserA → UserB: 1.1 BTC', 'UserC → UserD: 2.2 BTC']
+Prev Hash   : 00000bd20cea18ba32f4b90333ee6964da3640e4100bc660102066454449adfd
+Merkle Root : 086e62104ffff83335746c7fcacd8b33bdf00a864ff3cb8dcdabff4841719fbe
+Nonce       : 13047767
+Hash        : 0000009249186fc899d2d00ab500a3d0f1909cd8732e5fd4e18bfb84e46c82ca
+Difficulty  : 6
